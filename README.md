@@ -31,10 +31,10 @@ Para executar estes casos de teste, o analista precisa apenas de:
   * Username: `standard_user`
   * Password: `secret_sauce`
 * **Steps:**
-  1. Abrir a tela de Login (`https://www.saucedemo.com/`)
-  2. Preencher o campo "Username" com "standard_user"
-  3. Preencher o campo "Password" com "secret_sauce"
-  4. Clicar no botão "Login"
+ 1. Abrir a tela de Login (`https://www.saucedemo.com/`)
+ 2. Preencher o campo "Username" com "standard_user"
+ 3. Preencher o campo "Password" com "secret_sauce"
+ 4. Clicar no botão "Login"
 * **Resultado esperado:**
   * Usuário é autenticado com sucesso e redirecionado para a tela inicial de produtos (`/inventory.html`).
 
